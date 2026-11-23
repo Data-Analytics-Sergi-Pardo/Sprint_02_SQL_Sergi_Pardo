@@ -13,7 +13,7 @@
 
 ## 🎯 Objetivo
 
-[Construir una base de datos relacional con MySQL. Realizar consultas con JOIN y subconsultas para responder a preguntas de negocio.]
+Aprender a construir una base de datos relacional con MySQL; Creación y manipulación de tablas y realizar consultas con JOIN y subconsultas para responder a preguntas de negocio.
 
 ## 📁 Contenido del repositorio
 
