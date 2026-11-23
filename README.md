@@ -9,7 +9,7 @@
 
 ## 📄 Presentación
 
-👉 [Ver la presentación (PDF)](./[Sprint_02_Presentacion].pdf)
+👉 [Ver la presentación (PDF)](./Sprint_02_Presentacion.pdf)
 
 ## 🎯 Objetivo
 
