@@ -9,18 +9,18 @@
 
 ## 📄 Presentación
 
-👉 [Ver la presentación (PDF)](./[nombre-del-archivo].pdf)
+👉 [Ver la presentación (PDF)](./[Sprint_02_Presentacion].pdf)
 
 ## 🎯 Objetivo
 
-[Una o dos frases sobre qué pide el sprint. Ejemplo: Crear y poblar una base de datos para gestionar…, y realizar consultas para responder a preguntas de negocio.]
+[Construir una base de datos relacional con MySQL. Realizar consultas con JOIN y subconsultas para responder a preguntas de negocio.]
 
 ## 📁 Contenido del repositorio
 
 | Archivo | Descripción |
 |---|---|
-| `[nombre-del-archivo].pdf` | Presentación del sprint |
-| `[nombre-del-archivo].sql` | Script con la resolución de los ejercicios |
+| `Sprint_02_Presentacion.pdf` | Presentación del sprint |
+| `Sprint_02_Sergi_pardo.sql` | Script con la resolución de los ejercicios |
 | `README.md` | Este documento |
 
 ## 🧩 Ejercicios
@@ -38,7 +38,7 @@
 ## ▶️ Cómo ejecutar
 
 1. Abre MySQL Workbench y conéctate a tu servidor local.
-2. Abre el archivo `[nombre-del-archivo].sql`.
+2. Abre el archivo `Sprint_02_Sergi_pardo.sql`.
 3. Ejecuta el script completo con ⚡ (o `Ctrl/Cmd + Shift + Enter`).
 
 ## 💡 Conclusiones
